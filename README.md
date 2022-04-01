@@ -34,9 +34,9 @@
 [F-2]: https://youtu.be/e-n27kRyAwM </br>
 [F-3]: https://youtu.be/iHOU-TXWWKA </br>
 [F-4]: https://youtu.be/47yGipwV-ao </br>
-[F-5]: Currently NA </br>
+[F-5]: https://youtu.be/foB-hyJYkRw </br>
 [F-6]: https://youtu.be/2Rp5Kiqs7yA </br>
-[F-7]: Currently NA </br> 
+[F-7]: https://youtu.be/BHqrOTZr7-w </br> 
 [C-1]: https://youtu.be/N7UeAjE6V80 </br>
 [C-2]: https://youtu.be/VpKsNrisTYU </br>
 [C-3]: https://youtu.be/Y-SHBmU7U5Q </br>
