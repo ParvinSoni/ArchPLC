@@ -36,7 +36,10 @@
 [F-4]: https://youtu.be/47yGipwV-ao </br>
 [F-5]: Currently NA </br>
 [F-6]: https://youtu.be/2Rp5Kiqs7yA </br>
-[F-7]: Currently NA </br>
+[F-7]: Currently NA </br> 
 [C-1]: https://youtu.be/N7UeAjE6V80 </br>
 [C-2]: https://youtu.be/VpKsNrisTYU </br>
 [C-3]: https://youtu.be/Y-SHBmU7U5Q </br>
+
+**Complete YouTube playlist is here:** </br>
+https://www.youtube.com/watch?v=SSySD6sn5e4&list=PLT1QolCLdp7GoLjwi3HT9gr0cxKc_mTRu&index=1
